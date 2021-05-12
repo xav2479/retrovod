@@ -1,0 +1,402 @@
+[
+   {
+      "id": 1,
+      "genre": "Action",
+      "titre": "Abyss",
+      "description": "Quand un sous-marin américain coule dans l'Atlantique, une équipe de recherche et de récupération des États-Unis (les SEAL) travaille avec l'équipage d'une plate-forme pétrolière, faisant la course contre les navires soviétiques, pour retrouver le navire. Au fond de l'océan, ils rencontrent une nouvelle et mystérieuse espèce.",
+      "maturity": 12,
+      "slug": "abyss"
+   },
+   {
+      "id": 2,
+      "genre": "Enfants",
+      "titre": "Beetlejuice",
+      "description": "Dans cette comédie fantastique, deux jeunes mariés récemment décédés deviennent des fantômes hantant leur ancienne maison et font appel à un « bio-exorciste » pour faire fuir ses nouveaux occupants.",
+      "maturity": 13,
+      "slug": "beetlejuice"
+   },
+   {
+      "id": 3,
+      "genre": "Romantique",
+      "titre": "Dirty Dancing",
+      "description": "Pendant son séjour, Bébé se trouve mêlée par hasard à la vie des employés de la pension. À la suite de la grossesse non désirée d'une des danseuses de l'établissement, celle-ci sera aidée par le père de Bébé, un docteur. Bébé se voit alors confronté à un monde qui lui est complètement étranger, celui de la danse.",
+      "maturity": 13,
+      "slug": "dirtydancing"
+   },
+   {
+      "id": 4,
+      "genre": "Enfants",
+      "titre": "Willow",
+      "description": "Une prophétie annonce qu'une princesse verra le jour, qui mettra fin au règne tyrannique de Bavmorda, la reine maléfique des Daïkinis (les humains). Apprenant la naissance imminente d'Élora, l'élue...",
+      "maturity": 7,
+      "slug": "willow"
+   },
+   {
+      "id": 5,
+      "genre": "Action",
+      "titre": "Full Metal Jacket",
+      "description": "Le film, qui met en scène des jeunes soldats du corps des Marines à la fin des années 1960, est composé de deux parties distinctes : dans la première, on assiste à leur entraînement à Parris Island et, dans la seconde, on les voit lors de la guerre du Viêt Nam pris dans les combats urbains ",
+      "maturity": 13,
+      "slug": "fullmetaljacket"
+   },
+   {
+      "id": 6,
+      "genre": "Enfants",
+      "titre": "Goonies",
+      "description": "Astoria, automne 1985. Alors que les terribles Fratelli s'évadent de prison, Bagou, Choco, Data et Mikey, une bande de copains, trouvent dans le grenier de ce dernier une vieille carte au trésor menant au pirate Willy le Borgne.",
+      "maturity": 12,
+      "slug": "goonies"
+   },
+   {
+      "id": 7,
+      "genre": "Action",
+      "titre": "Scarface",
+      "description": "Scénarisé par Oliver Stone, ce film est un remake du film du même nom réalisé en 1932 par Howard Hawks, mais celui-ci traitait de la mafia américaine et s'inspirait de la vie d'Al Capone. Ce remake est transposée ici à travers l'histoire d'un petit malfrat cubain, Tony Montana (incarné par Al Pacino)",
+      "maturity": 13,
+      "slug": "scarface"
+   },
+   {
+      "id": 8,
+      "genre": "Romantique",
+      "titre": "Grease",
+      "description": "Durant l'été 1958, Sandy Olsson (Olivia Newton-John), une lycéenne australienne en vacances aux États-Unis, rencontre Danny Zuko (John Travolta), le chef de la bande des T-Birds. Leur amour est cependant interrompu par la fin des vacances car Sandy doit retourner en Australie.",
+      "maturity": 12,
+      "slug": "grease"
+   },
+   {
+      "id": 9,
+      "genre": "Thriller",
+      "titre": "Le Silence des Agneaux",
+      "description": "Clarice Starling, un agent du FBI, demande l'aide d'Hannibal Lecter, un tueur en série psychopathe et ancien psychiatre, afin d'appréhender un autre tueur en série qui a fait des victimes féminines.",
+      "maturity": 16,
+      "slug": "the-silence-of-the-lambs"
+   },
+   {
+      "id": 10,
+      "genre": "Thriller",
+      "titre": "Usual Suspect",
+      "description": "Sur le pont d'un cargo dans le port de San Pedro, en Californie, un homme blessé du nom de Keaton discute avec une silhouette qu'il nomme Keyser. Ce dernier tire ensuite sur Keaton, avant de mettre le feu au navire.",
+      "maturity": 16,
+      "slug": "usualsuspect"
+   },
+   {
+      "id": 11,
+      "genre": "Suspence",
+      "titre": "Freddy",
+      "description": "Heather hésite, d'autant qu'elle est harcelée au téléphone par ce qu'elle croit être un fan désaxé. Cependant, des signes étranges, la mort de son petit ami et le comportement de son fils lui font comprendre que Freddy est bel et bien sorti du film et c'est à elle de l'arrêter.",
+      "maturity": 12,
+      "slug": "freddy"
+   },
+   {
+      "id": 12,
+      "genre": "Enfants",
+      "titre": "Gremlins",
+      "description": "Randall Peltzer (Hoyt Axton), dit « Rand », est un inventeur farfelu aux créations allant des plus pratiques aux plus originales. Originaire de Kingston Falls, il se rend dans le quartier de Chinatown à New York, pour tenter de vendre ses inventions et dénicher un cadeau de Noël original pour son fils Billy (Zach Galligan).",
+      "maturity": 7,
+      "slug": "gremlins"
+   },
+   {
+      "id": 13,
+      "genre": "Thriller",
+      "titre": "Reservoir Dogs",
+      "description": "Dans un restaurant, huit hommes, en apparence décontractés, parlent, entre autres, de musique, notamment de Like a Virgin, de Madonna, et du fait de savoir s'il faut ou non laisser un pourboire à la serveuse. Six d'entre eux utilisent des pseudonymes (M. White, M. Blonde, M. Orange, M. Pink, M. Blue et M. Brown)",
+      "maturity": 16,
+      "slug": "reservoirdogs"
+   },
+   {
+      "id": 14,
+      "genre": "Thriller",
+      "titre": "Sixième Sens",
+      "description": "Alors qu'il rentre chez lui et s'apprête à fêter avec son épouse une vie couronnée de succès, le Dr Malcolm Crowe, qui est psychologue pour enfants, a la surprise de voir l'un de ses anciens patients, Vincent Grey, pénétrer chez lui.",
+      "maturity": 12,
+      "slug": "6sens"
+   },
+   {
+      "id": 15,
+      "genre": "Romantique",
+      "titre": "Titanic",
+      "description": "Rose, 17 ans, est issue d'une famille aristocratique et est sur le point de se marier. Lorsqu'elle monte à bord du Titanic, elle rencontre Jack Dawson, un artiste, et tombe amoureuse de lui.",
+      "maturity": 7,
+      "slug": "titanic"
+   },
+   {
+      "id": 16,
+      "genre": "Action",
+      "titre": "Ghostbuster",
+      "description": "Les docteurs Peter Venkman, Raymond « Ray » Stantz et Egon Spengler, des chercheurs de l'université Columbia de New York spécialisés en parapsychologie, sont accusés de mener des recherches farfelues. Radiés de leur poste par le doyen de l’université, ils décident alors d'ouvrir une société d'investigations paranormales nommée « SOS Fantômes »",
+      "maturity": 7,
+      "slug": "ghostbuster"
+   },
+   {
+      "id": 17,
+      "genre": "Enfants",
+      "titre": "Histoire sans fin",
+      "description": "Bastien, un garçon d'une dizaine d'années, de nature introvertie et solitaire, a du mal à communiquer avec son père depuis la mort de sa mère. Un matin, avant de partir à l'école, son père lui demande d'arrêter d'être dans la lune, et d'avoir les pieds sur terre.",
+      "maturity": 7,
+      "slug": "histoiresansfin"
+   },
+   {
+      "id": 18,
+      "genre": "Action",
+      "titre": "Mississippi Burning",
+      "description": "Alan Ward et Rupert Anderson, des agents du FBI, sont chargés d’éclaircir cette affaire. Le premier est un homme jeune, agissant avec « les méthodes officielles du FBI », à savoir la méthode systématique un peu violente mais légaliste du FBI de J. Edgar Hoover. ",
+      "maturity": 16,
+      "slug": "mississippi"
+   },
+   {
+      "id": 19,
+      "genre": "Suspense",
+      "titre": "Les dents de la Mer",
+      "description": "Pendant l'été du 1er juillet 1974, sur l'île d'Amity, un groupe d'étudiants fait la fête sur la plage. Une jeune femme s'éloigne du groupe pour un bain de minuit alors que son flirt s'endort sur la plage, ivre. Après quelques brasses, la jeune femme est attaquée par une force mystérieuse.",
+      "maturity": 13,
+      "slug": "jaws"
+   },
+   {
+      "id": 20,
+      "genre": "Romantique",
+      "titre": "La Boum",
+      "description": "Vic (Sophie Marceau), treize ans, inscrite au lycée Henri-IV, est à l'âge des premières sorties et des premiers émois. Ses parents, François (Claude Brasseur), dentiste, et Françoise (Brigitte Fossey), dessinatrice de bandes dessinées.",
+      "maturity": 7,
+      "slug": "laboum"
+   },
+   {
+      "id": 21,
+      "genre": "Thriller",
+      "titre": "Les Affranchis",
+      "description": "Dans la scène d'ouverture du film, le personnage principal, Henry Hill, un citoyen américain d'origine italo-irlandaise, parle de son enfance à New York en 1955 et admet : « Autant que je me souvienne, j'ai toujours rêvé d'être gangster ». ",
+      "maturity": 16,
+      "slug": "lesaffranchis"
+   },
+   {
+      "id": 22,
+      "genre": "Romantique",
+      "titre": "Splash",
+      "description": "Des années plus tard, devenu adulte et désormais grossiste en fruits en association avec son frère Freddie, Allen se rend au même endroit et tombe en mer après un accident de bateau. Lorsqu'il reprend conscience, il se trouve sur une plage déserte à l'exception d'une très belle jeune femme, qui est nu",
+      "maturity": 7,
+      "slug": "splash"
+   },
+   {
+      "id": 23,
+      "genre": "Suspence",
+      "titre": "Seven",
+      "description": "Un tueur en série commence à assassiner des gens selon les sept péchés capitaux. Deux détectives, l'un nouveau dans la ville et l'autre sur le point de prendre sa retraite, sont chargés d'appréhender le criminel.",
+      "maturity": 16,
+      "slug": "seven"
+   },
+   {
+      "id": 24,
+      "genre": "Suspence",
+      "titre": "Pulp Fiction",
+      "description": "Dans un café-restaurant de Los Angeles, dans la matinée, un couple de jeunes braqueurs, Pumpkin (appelé Ringo par Jules) et Yolanda (Tim Roth et Amanda Plummer), discutent des risques que comporte leur activité. Ils se décident finalement à attaquer le lieu, afin de pouvoir dévaliser à la fois l'établissement et les clients.",
+      "maturity": 12,
+      "slug": "pulpfiction"
+   },
+   {
+      "id": 25,
+      "genre": "Suspence",
+      "titre": "Shinning",
+      "description": "Écrivain, Jack Torrance est engagé comme gardien, pendant tout l’hiver, d’un grand hôtel isolé du Colorado – l’Overlook – où il espère surmonter enfin sa panne d’inspiration. Il s’y installe avec sa femme Wendy et son fils Danny, doté d’un don de médium.",
+      "maturity": 16,
+      "slug": "shinning"
+   },
+   {
+      "id": 1,
+      "genre": "Enfants",
+      "titre": "Arnorld & Willy",
+      "description": "Monsieur Drummond, veuf milliardaire, a promis à sa gouvernante, mourante, de s'occuper de ses deux fils. C'est ainsi qu'il accueille deux garçons noirs et pauvres : le jeune Arnold, 8 ans, et son frère Willy, 13 ans, qui ont grandi dans le quartier défavorisé de Harlem.",
+      "maturity": 0,
+      "slug": "arnold"
+   },
+   {
+      "id": 2,
+      "genre": "Science-Fiction",
+      "titre": "V la série",
+      "description": "Alors que le journaliste Mike Donovan filme des soldats en plein combat au Salvador, apparaissent d’un coup dans le ciel, et en de nombreux endroits du globe, de gigantesques ovnis (qui seront dénommés par la suite « vaisseaux-mères ») venus du système de l'étoile Sirius situé à 8,6 années-lumière du système solaire",
+      "maturity": 12,
+      "slug": "v"
+   },
+   {
+      "id": 3,
+      "genre": "Humour-Décalé",
+      "titre": "School of Rock",
+      "description": "Dewey Finn, un amateur de rock amateur, prend sournoisement le poste d'enseignant suppléant de son ami. N'ayant aucune qualification pour cela, il commence à former les étudiants à former un groupe.",
+      "maturity": 12,
+      "slug": "schoolofrock"
+   },
+   {
+      "id": 4,
+      "genre": "Enfants",
+      "titre": "Il était une fois l'homme",
+      "description": "Les principales étapes historiques sont abordées en mettant en scène une cellule familiale et en mélangeant les grands points de l'histoire avec ce que cela signifiait dans la vie quotidienne.",
+      "maturity": 0,
+      "slug": "homme"
+   },
+   {
+      "id": 5,
+      "genre": "Comédie",
+      "titre": "South-Park",
+      "description": "Quatre jeunes garçons scolarisés, Stan Marsh, Kyle Broflovski, Eric Cartman et Kenny McCormick, qui vivent à South Park se sont lancés dans diverses aventures.",
+      "maturity": 16,
+      "slug": "south-park"
+   },
+   {
+      "id": 6,
+      "genre": "Comédie",
+      "titre": "Notre Belle Famille",
+      "description": "Frank Lambert, entrepreneur divorcé (son ex-femme est partie pour Las Vegas) et père de trois enfants, se marie à la Jamaïque, sur un coup de tête, avec Carol Foster, une divorcée, elle aussi mère de trois enfants… ",
+      "maturity": 12,
+      "slug": "bellefamille"
+   },
+   {
+      "id": 7,
+      "genre": "Policier",
+      "titre": "Deux Flic à Miami",
+      "description": "James « Sonny » Crockett et Ricardo Tubbs sont deux inspecteurs du département du crime organisé (OCB) de la police de Miami (Miami-Dade Police Department). Ils agissent le plus souvent en civil et sous couverture, utilisant de fausses identités dans le cadre de leurs enquêtes. ",
+      "maturity": 12,
+      "slug": "2flicmiami"
+   },
+   {
+      "id": 8,
+      "genre": "Science-Fiction",
+      "titre": "Code Quantum",
+      "description": "Souffrant d'une amnésie partielle liée à sa propre identité, il est aidé par le contre-Amiral Al Calavicci, qui lui apparaît sous forme d'hologramme. Al tient dans sa main « l'Interrogateur6 », un appareil multicolore lui permettant d'entrer en contact avec Ziggy. Cet « ordinateur hybride » exécute le projet « Code Quantum » et les renseigne sur le contexte historique de chaque voyage dans le temps.",
+      "maturity": 12,
+      "slug": "codequantum"
+   },
+   {
+      "id": 9,
+      "genre": "Policier",
+      "titre": "Chips",
+      "description": "Jonathan « Jon » Baker et Francis « Ponch » Poncherello sont deux motards policiers, officiers de la California Highway Patrol dans la région de Los Angeles.  Le premier, Jon, blond et sérieux, est très différent de Ponch, un policier casse-cou et en période probatoire.",
+      "maturity": 12,
+      "slug": "chips"
+   },
+   {
+      "id": 10,
+      "genre": "Policier",
+      "titre": "Columbo",
+      "description": "Columbo est une série télévisée policière américaine de Richard Levinson et William Link dans laquelle le rôle-titre, interprété par Peter Falk, est un inspecteur de police (son grade dans la police américaine est celui de lieutenant) en apparence un peu simplet, brouillon et laborieux. Il se révèle en réalité très intelligent, obstiné et perspicace.",
+      "maturity": 12,
+      "slug": "columbo"
+   },
+   {
+      "id": 11,
+      "genre": "Enfants",
+      "titre": "La Fête à la Maison",
+      "description": "Lorsque l’histoire débute, Danny Tanner élève seul ses trois filles : Donna-Jo (dite DJ), Stéphanie et Michelle, à la suite de la mort accidentelle de Pamela (dite Pam), sa femme. La famille vit à San Francisco au 1882 Girard Street et son numéro de téléphone est le 555-2424.",
+      "maturity": 7,
+      "slug": "lafetealamaison"
+   },
+   {
+      "id": 12,
+      "genre": "Humour-Décalé",
+      "titre": "Plan Coeur",
+      "description": "Deux ans après sa rupture avec Max, Elsa déprime et n'arrive toujours pas à aller de l'avant. Charlotte et Émilie, ses deux meilleures amies depuis toujours, décident alors d'engager un gigolo, Jules, afin qu'elle puisse oublier son ex, sans qu'elle le sache.",
+      "maturity": 12,
+      "slug": "plancoeur"
+   },
+   {
+      "id": 13,
+      "genre": "Comédie",
+      "titre": "Ma Sorcière Bien Aimé",
+      "description": "Samantha, membre d'une éminente société de sorcellerie, a vécu pendant plusieurs siècles loin des humains. Un jour, cette ravissante sorcière tombe amoureuse et épouse Jean-Pierre Stephens (Darrin Stephens dans la version originale), un mortel qui travaille dans l'agence de publicité McMann et Tate.",
+      "maturity": 7,
+      "slug": "beurtched"
+   },
+   {
+      "id": 14,
+      "genre": "Humour-Décalé",
+      "titre": "Friends",
+      "description": "Monica Geller, une jeune cuisinière d'environ 25 ans, vit dans un appartement situé à Manhattan, dans Greenwich Village. Un jour, son amie d'enfance, Rachel Green, qu'elle n'avait plus vue depuis des années, lui rend visite après avoir quitté son fiancé à l'autel le jour de leur mariage. Rachel devient alors la nouvelle colocataire de Monica et s’intègre sans problème à son groupe d'amis",
+      "maturity": 12,
+      "slug": "friends"
+   },
+   {
+      "id": 15,
+      "genre": "Humour-Décalé",
+      "titre": "Scrubs",
+      "description": "Scrubs est une série centrée sur la vie du personnel de l'hôpital du Sacré-Cœur (Sacred Heart) et particulièrement sur celle de John Dorian, alias « J.D. ». Au début de la série, J.D. est un jeune interne qui entre à l'hôpital du Sacré-Cœur, tout comme son meilleur ami et colocataire, l'apprenti-chirurgien Christopher Turk.",
+      "maturity": 12,
+      "slug": "scrubs"
+   },
+   {
+      "id": 16,
+      "genre": "Science-Fiction",
+      "titre": "K2000",
+      "description": "Cette série met en scène les aventures de Michael Knight, un aventurier des temps modernes et justicier au service des plus faibles, embauché par une mystérieuse fondation secrète et aidé d'une voiture perfectionnée.",
+      "maturity": 16,
+      "slug": "k2000"
+   },
+   {
+      "id": 17,
+      "genre": "Enfants",
+      "titre": "Pierreafeu",
+      "description": "Tout se passe à l'âge de la pierre dans une ville appelée Caillouville (St-Granite en VQ), mais où la société est exactement la même que celle des États-Unis dans la deuxième moitié du xxe siècle.",
+      "maturity": 7,
+      "slug": "pierreafeu"
+   },
+   {
+      "id": 18,
+      "genre": "Science-Fiction",
+      "titre": "Sliders",
+      "description": "Quinn Mallory, un jeune étudiant véritable génie de la physique, invente dans son sous-sol un appareil capable de générer un vortex qui débouche sur des réalités parallèles, des mondes où l'histoire de la Terre a évolué de manière différente.",
+      "maturity": 12,
+      "slug": "sliders"
+   },
+   {
+      "id": 19,
+      "genre": "Humour-Décalé",
+      "titre": "Band of Brothers",
+      "description": "Inspirée de l'œuvre de l'historien Stephen E. Ambrose, cette série retrace l'histoire des soldats de la Easy Company, du 506e régiment d'infanterie parachutée, de la 101e Division Aéroportée US (dont les membres sont connus sous le nom de « Screaming Eagles » ou « Aigles hurleurs »), de ses débuts et jusqu'à la fin de la Seconde Guerre mondiale en 1945.",
+      "maturity": 12,
+      "slug": "bandofbrothers"
+   },
+   {
+      "id": 20,
+      "genre": "Comédie",
+      "titre": "Happy Days",
+      "description": "Cette série brosse le portrait idéalisé de l'Amérique des années 1950 et du début des années 1960. Elle met en scène la vie de Richie Cunningham, un étudiant un peu coincé, et de sa famille d'Arthur « Fonzie »",
+      "maturity": 7,
+      "slug": "happydays"
+   },
+   {
+      "id": 21,
+      "genre": "Policier",
+      "titre": "Rick Hunter",
+      "description": "Inspecteur à la Police Criminelle de Los Angeles, Rick Hunter est un policier d'action, prompt à dégainer et peu soumis à sa hiérarchie. Secondé par Dee Dee McCall qui partage son goût du franc-parler, il épuise plusieurs de ses supérieurs avant de trouver en Charlie Devane un soutien et un ami.",
+      "maturity": 12,
+      "slug": "rickhunter"
+   },
+   {
+      "id": 22,
+      "genre": "Science-Fiction",
+      "titre": "Cosmos 1999",
+      "description": "En 1999, la Terre entrepose ses déchets nucléaires sur la Lune où est déjà installée la base lunaire « Alpha ». Le 13 septembre, une explosion de ces stocks provoque une très puissante réaction en chaîne qui conduit la Lune à quitter l’orbite terrestre puis le système solaire. Dans l’incapacité de regagner la Terre, les 311 survivants, commandés par le charismatique commandant John Koenig",
+      "maturity": 12,
+      "slug": "cosmos"
+   },
+   {
+      "id": 23,
+      "genre": "Comédie",
+      "titre": "Muppets Show",
+      "description": "Cette série, présentée par Kermit la grenouille dans le rôle du régisseur de théâtre, propose une succession de sketches et de numéros musicaux réalisés par les membres de la troupe (les marionnettes Muppets) autour d'une guest star humaine, issue du monde du cinéma, du théâtre ou de la musique.",
+      "maturity": 7,
+      "slug": "muppetshow"
+   },
+   {
+      "id": 24,
+      "genre": "Enfants",
+      "titre": "Ulysse 31",
+      "description": "Au xxxie siècle, sur la base spatiale de Troie (en référence à la cité mythique de Troie), Priam discute avec Ulysse de son avenir. En effet, sur Terre les princes prétendants menacent la paix car Pénélope, femme d'Ulysse, sera contrainte de choisir un nouvel époux parmi eux si ce dernier ne revient pas avant la prochaine comète.",
+      "maturity": 12,
+      "slug": "ulysse"
+   },
+   {
+      "id": 25,
+      "genre": "Policier",
+      "titre": "Starsky & Hutch",
+      "description": "Cette série met en scène deux policiers de Bay City (Californie), une ville imaginaire calquée sur Los Angeles. Toutefois dans un des épisodes, Hutch déclare faire partie de la police de Los Angeles, on aperçoit aussi sur les voitures de patrouille le sceau de la police de Los Angeles.",
+      "maturity": 12,
+      "slug": "starskyhutch"
+   }
+]

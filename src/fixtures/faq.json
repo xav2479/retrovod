@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "header": "Qu'est-ce que RetroVod?",
+      "body": "RetroVod est un service de diffusion en continu qui propose une grande variété de programmes télévisés, de films"
+    },
+    {
+      "id": 2,
+      "header": "Combien coûte RetroVod?",
+      "body": "Regardez RetroVod sur votre smartphone, tablette, smart TV, ordinateur portable ou appareil de streaming, le tout pour un tarif mensuel fixe et modique de 3,99 € par mois. Pas de frais ni de contrats supplémentaires."
+    },
+    {
+      "id": 3,
+      "header": "Où puis-je regarder?",
+      "body": "Regardez n'importe où, n'importe quand, sur un nombre illimité d'appareils. Connectez-vous a RetroVod pour regarder instantanément sur le Web sur depuis votre ordinateur personnel ou sur tout appareil connecté à Internet qui propose l'application RetroVod, y compris les téléviseurs intelligents, les smartphones, les tablettes, les lecteurs multimédias en streaming et les consoles de jeux. Vous pouvez également télécharger vos programmes préférés avec l'application iOS, Android ou Windows 10. Utilisez les téléchargements pour regarder pendant que vous êtes en déplacement et sans connexion Internet."
+    },
+    {
+      "id": 4,
+      "header": "Comment annuler?",
+      "body": "RetroVod est flexible. Il n'y a pas de contrats ennuyeux ni d'engagements. Vous pouvez facilement résilier votre compte en ligne en deux clics. Il n'y a pas de frais d'annulation - démarrez ou arrêtez votre compte à tout moment."
+    },
+    {
+      "id": 5,
+      "header": "Que puis-je regarder sur RetroVod?",
+      "body": "RetroVod possède une vaste bibliothèque de longs métrages, de programmes télévisés et plus encore. Regardez autant que vous le souhaitez, à tout moment."
+    }
+  ]

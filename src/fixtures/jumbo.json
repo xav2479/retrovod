@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Profitez sur votre TV",
+      "subTitle": "Regardez sur les téléviseurs intelligents, PlayStation, Xbox, Chromecast, Apple TV, lecteurs Blu-ray et plus encore.",
+      "image": "/images/misc/home-tv.png",
+      "alt": "Retrovod sur TV",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "Téléchargez vos programmes pour les regarder lors de vos déplacements.",
+      "subTitle": "Sauvegardez vos données et regardez tous vos favoris hors ligne.",
+      "image": "/images/misc/home-mobile.png",
+      "alt": "RetroVod sur mobile",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Regardez partout.",
+      "subTitle": "Diffusez des films et des programmes TV illimités sur votre téléphone, tablette, ordinateur portable et téléviseur sans payer plus.",
+      "image": "/images/misc/home-imac.png",
+      "alt": "RetroVod partout où que vous soyez",
+      "direction": "row"
+    }
+  ]
